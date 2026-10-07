@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707275402061",
+    "project_id": "biteoapp-75ac2",
+    "storage_bucket": "biteoapp-75ac2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707275402061:android:d3b1b00eee42191e552504",
+        "android_client_info": {
+          "package_name": "com.example.biteoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxWyX4nE5beHdgXAxVhGzvlxD1qPeiCjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
